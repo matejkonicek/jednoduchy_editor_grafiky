@@ -1,0 +1,1 @@
+# jednoduchý editor grafiky
